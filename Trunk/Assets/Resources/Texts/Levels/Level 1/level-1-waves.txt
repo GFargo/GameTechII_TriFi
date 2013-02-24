@@ -1,0 +1,10 @@
+1, Medium Creep, 5, 3
+1, Medium Creep, 7, 3
+1, Small Creep, 10, 1
+1, Medium Creep, 6, 3
+1, Medium Creep, 8, 3
+1, Large Creep, 2, 7
+1, Small Creep, 12, 1
+1, Medium Creep, 9, 5
+1, Medium Creep, 14, 3
+1, Large Creep, 5, 5
